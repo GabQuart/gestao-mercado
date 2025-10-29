@@ -40,8 +40,8 @@ O foco é **aprimorar habilidades em desenvolvimento full stack** e **compor um 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/gab-cabral/gestao-estoque-mercado.git
-   cd gestao-estoque-mercado/frontend
+   git clone https://github.com/GabQuart/gestao-mercado.git
+   cd gestao-mercado/frontend
 ````
 
 2. Instale as dependências:
